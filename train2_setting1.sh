@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0,1 python train_stage2.py \
+--setting 1 \
+--ablation_part 'all' \
+--data-dir '/data/dataset/xukunlun/PRID' \
+--logs-dir '_RESULTS' \
+--stage1_prompts_out_dir './_STAGE1_PROMPTS_WEIGHT' \
+--BLIP_text_out_dir './_BLIP_TEXT_DESC' \
+--query_AF \
+-b 64 \
+--other_details 'VLADR_setting1' \
+--eval_stage '4' \
+--epochs 60 

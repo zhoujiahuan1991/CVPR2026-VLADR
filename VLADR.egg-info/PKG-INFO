@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: VLADR
+Version: 1.0.0
+Summary: Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification
+Author: Kunlun Xu, Haotong Cheng, Jiangmeng Li, Xu Zou, Jiahuan Zhou
+License: MIT
+Keywords: Person Re-Identification,Lifelong Learning,CLIP,Computer Vision
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
