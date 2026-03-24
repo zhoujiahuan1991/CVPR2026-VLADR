@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://cvpr.thecvf.com/Conferences/2026"><img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square"></a>
-  <a href=""><img src="https://img.shields.io/badge/arXiv-paper-B31B1B?style=flat-square&logo=arxiv"></a>
+  <a href='https://arxiv.org/pdf/2603.19678'><img src='https://img.shields.io/badge/Arxiv-2603.19678-A42C25.svg?logo=arXiv'></a>
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FCVPR2026-VLADR&label=VLADR&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
 </p>
 
